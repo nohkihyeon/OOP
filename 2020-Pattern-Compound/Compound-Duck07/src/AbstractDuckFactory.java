@@ -3,8 +3,7 @@
  * @version 2020년도 2학기
  * @author 김상진
  * AbstractDuckFactory.java
- * 복합 패턴: 
- * 오리를 생성할 때 특정한 방법으로 생성하도록 하기 위한 interface
+ * 복합 패턴: 오리를 생성할 때 특정한 방법으로 생성하도록 하기 위한 interface
  */
 public interface AbstractDuckFactory {
 	Quackable createMallardDuck();
