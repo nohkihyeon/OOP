@@ -3,7 +3,7 @@ import java.lang.reflect.Constructor;
 /**
  * 한국기술교육대학교 컴퓨터공학부 객체지향개발론및실습 
  * @version 2020년도 2학기
- * @author 김상진
+
  * @file SingletonKiller.java
  * 다중 쓰레드 뿐만 아니라 자바에서는 reflection 라이브러리를 이용하여
  * 싱글톤을 무력화시킬 수 있음. 열거형 버전은 reflection을 이용하여도 가능하지 않음
