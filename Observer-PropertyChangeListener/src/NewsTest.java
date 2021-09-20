@@ -20,6 +20,7 @@ public class NewsTest {
 		publisher.setNews("리버풀 1: 뉴캐슬 1"); // 통보되지 않음
 		publisher.setNews("리버풀 2: 뉴캐슬 1");
 		publisher.setNews("리버풀 3: 뉴캐슬 1");
+		publisher.setNews("리버풀 3: 뉴캐슬 2"); // 추가 
 		
 	}
 }
