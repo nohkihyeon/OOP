@@ -1,0 +1,11 @@
+-XstartOnFirstThread
+-XX:+ShowCodeDetailsInExceptionMessages
+-agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:52496
+--module-path
+/Users/nohgihyeon/javafx-sdk-11.0.2/lib
+--add-modules=javafx.controls,javafx.fxml
+-javaagent:/Users/nohgihyeon/eclipse/java-2021-03/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.osgi/213/0/.cp/lib/javaagent-shaded.jar
+-Dfile.encoding=UTF-8
+-classpath
+/Users/nohgihyeon/Desktop/객체지향개발론및실습/과제/Strategy-Lab-MookJiBa2020-Student01/bin:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx-swt.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.base.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.controls.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.fxml.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.graphics.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.media.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.swing.jar:/Users/nohgihyeon/javafx-sdk-11.0.2/lib/javafx.web.jar
+MookJiBaGame

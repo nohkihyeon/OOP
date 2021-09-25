@@ -1,0 +1,56 @@
+{
+    "documents": [
+        {
+            "address_name": "경기 성남시 분당구 삼평동 670",
+            "category_group_code": "",
+            "category_group_name": "",
+            "category_name": "서비스,산업 \u003e 인터넷,IT \u003e 소프트웨어",
+            "distance": "",
+            "id": "18634438",
+            "phone": "070-4489-1000",
+            "place_name": "이루온",
+            "place_url": "http://place.map.kakao.com/18634438",
+            "road_address_name": "경기 성남시 분당구 대왕판교로 660",
+            "x": "127.10714197082693",
+            "y": "37.40077576672964"
+        },
+        {
+            "address_name": "경기 성남시 분당구 삼평동 670",
+            "category_group_code": "",
+            "category_group_name": "",
+            "category_name": "서비스,산업 \u003e 제조업 \u003e 전기,전자 \u003e 보안제품",
+            "distance": "",
+            "id": "1676681776",
+            "phone": "070-4489-1078",
+            "place_name": "이루온아이앤에스",
+            "place_url": "http://place.map.kakao.com/1676681776",
+            "road_address_name": "경기 성남시 분당구 대왕판교로 660",
+            "x": "127.106674018018",
+            "y": "37.4005076856004"
+        },
+        {
+            "address_name": "경기 성남시 분당구 삼평동 670",
+            "category_group_code": "",
+            "category_group_name": "",
+            "category_name": "서비스,산업 \u003e 인터넷,IT \u003e 소프트웨어",
+            "distance": "",
+            "id": "16059856",
+            "phone": "1588-6670",
+            "place_name": "이루온엘비에스",
+            "place_url": "http://place.map.kakao.com/16059856",
+            "road_address_name": "경기 성남시 분당구 대왕판교로 660",
+            "x": "127.10738515856319",
+            "y": "37.40103233706369"
+        }
+    ],
+    "meta": {
+        "is_end": true,
+        "pageable_count": 3,
+        "same_name": {
+            "keyword": "이루온",
+            "region": [],
+            "selected_region": ""
+        },
+        "total_count": 3
+    }
+}
