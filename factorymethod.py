@@ -1,6 +1,5 @@
 # 한국기술교육대학교 컴퓨터공학부 객체지향개발론및실습
 # 2020년도 2학기
-# 김상진
 # 팩토리 메소드 패턴
 # 피자 예제
 from abc import ABC, abstractmethod
