@@ -6,7 +6,6 @@ import java.util.Objects;
  * 전략 패턴: Head First Pattern 예제
  * Duck.java: 추상클래스, 오리
  * 전략 패턴 적용하기 전 버전
- * @author 김상진
  */
 public abstract class Duck {
 	private FlyingStrategy flyingStrategy;
