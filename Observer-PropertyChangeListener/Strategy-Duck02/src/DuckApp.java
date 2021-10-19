@@ -8,7 +8,6 @@ import java.util.List;
  * DuckApp.java: 오리응용 테스트 프로그램
  * 전략 패턴 적용하기 전 버전
  * 고무오리와 나무오리 추가 (과연 상속으로 모델링하는 것이 올바른 것인지, LSP측면)
- * @author 김상진
  */
 public class DuckApp {
 	public static void flySimulation(Duck duck) {

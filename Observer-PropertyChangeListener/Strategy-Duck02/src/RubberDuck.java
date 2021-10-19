@@ -4,7 +4,6 @@
  * 전략 패턴: Head First Pattern 예제
  * RubberDuck.java: 고무오리, 부모: Duck
  * 전략 패턴 적용하기 전 버전
- * @author 김상진
  */
 public class RubberDuck extends Duck {
 	@Override

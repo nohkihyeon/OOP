@@ -43,11 +43,12 @@ class SoccerObserver(Observer):
 		print(self.id+">> 현재 점수: "+score)
 
 server = SoccerServer()
-client1 = SoccerObserver("길동")
-client2 = SoccerObserver("춘향")
+client1 = SoccerObserver("손흥민")
+client2 = SoccerObserver("황희찬")
 server.registerObserver(client1)
+server.updateScore("Tottenham Hotspur 1: Wolverhampton 0")
 server.registerObserver(client2)
-server.updateScore("Korea 1: Brazil 0")
+server.updateScore("Tottenham Hotspur 1: Wolverhampton 1")
 server.removeObserver(client1)
-server.updateScore("Korea 2: Brazil 1")
+server.updateScore("Tottenham Hotspur 1: Wolverhampton 2")
 

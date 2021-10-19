@@ -5,7 +5,6 @@
  * Duck.java: 추상클래스, 오리
  * 전략 패턴 적용하기 전 버전
  * 버전 1에 비해 fly 행위 추가
- * @author 김상진
  */
 public abstract class Duck {
 	public void quack() {
