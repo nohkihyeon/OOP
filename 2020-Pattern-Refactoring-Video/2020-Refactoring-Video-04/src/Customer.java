@@ -6,8 +6,7 @@ import java.util.ArrayList;
  * Customer 클래스: 고객 대여정보
  * 대여목록 출력 기능을 가지고 있음 
  * Replace Temp with Query를 적용한 버전 (효율성은 무시하나?)
- * @author 김상진 
- */
+ *  */
 public class Customer {
 	private String name;
 	private ArrayList<Rental> rentals = new ArrayList<>();
